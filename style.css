@@ -1,0 +1,16 @@
+@import
+url('https://fonts.google.com/css2/family=Borel&display=swap');
+@import('https://fronts.googleapis.com/css2?family=Marriweather:wght@300&display=swap');
+a{
+    color: red;
+    text-transform: none;
+    text-shadow: 5px 5px;
+    font-family: 'Marriweather', cursive
+}
+p{
+    text-indent: 50px;
+    word-spacing: 5px;
+    line-height: 1.5;
+    white-space: pre-wrap;
+    font-family: 'Borel', cursive;
+} 
